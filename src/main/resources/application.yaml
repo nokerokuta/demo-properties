@@ -1,0 +1,10 @@
+server:
+  port: 8085
+
+test:
+  about: Test data for properties mapping
+  sites:
+    - url: hello@world
+      name: hello
+    - url: goodbye@world
+      name: goodbye
